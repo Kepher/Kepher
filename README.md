@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kepher Otieno.
-- 👀 I’m interested in i computer science focusing on software engineering.
+- 👀 I’m interested in Computer Science focusing on software engineering.
 - 🌱 I’m currently learning C++ programming language.
 - 💞️ I’m looking to collaborate on Architectural housing designs and Bioinformatics.
 - 📫 How to reach me on social media Twitter@KepherOtieno1 and Email kepher.otieno98@gmail.com
